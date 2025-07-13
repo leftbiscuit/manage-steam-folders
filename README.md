@@ -28,6 +28,8 @@ This PowerShell script automates management of a Steam installation’s `steamap
 - **Compute SHA-256 hashes** of both folders before and after operations to verify integrity.
 - **Perform a dry-run** to preview actions without modifying any files.
 
+> **IMPORTANT:** If you’re not sure what the script will do, always run it first with the `-DryRun`
+
 ---
 
 ## OPTIONS
